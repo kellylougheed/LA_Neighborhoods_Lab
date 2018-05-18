@@ -2,31 +2,31 @@ div{
   text-align: center;
 }
 
-#Brooklyn{
+#Downtown_LA{
   min-height: 100px;
   width: 100%;
   background-color: red;
 }
 
-#Queens{
+#Hollywood{
   min-height: 100px;
   width: 100%;
   background-color: blue;
 }
 
-#Manhattan{
+#Miracle_Mile{
   min-height: 100px;
   width: 100%;
   background-color: purple;
 }
 
-#Staten_Island{
+#West_LA{
   min-height: 100px;
   width: 100%;
   background-color: yellow;
 }
 
-#The_Bronx{
+#Santa_Monica{
   min-height: 100px;
   width: 100%;
   background-color: green;
