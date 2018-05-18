@@ -3,7 +3,7 @@
 ## Intro
 The Los Angeles area can be divided into several different smaller areas, such as Downtown LA, Hollywood, Miracle Mile, West LA, and Santa Monica. Each area has its own unique attractions and populations.
 
-![](https://media.giphy.com/media/Z69UDgjfRMjsY/giphy.gif)
+![](https://media.giphy.com/media/Z69UDgjfRMjsY/giphy.gif) ![](https://media.giphy.com/media/xT5LMWGwEPNVep0iBO/giphy.gif)
 
 ## Task
 If you take a look in your index.html file you'll see that you've been given a page with 5 divs. Each one of these divs has an id corresponding to a different area has been styled to have a different background color.
